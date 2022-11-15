@@ -1,11 +1,25 @@
+h1:hover {
+    color: grey;
+}
+
+h2:hover {
+    color: grey;
+}
+
+h3:hover {
+    color:grey; 
+}
+
 #header1 h1 {
     color: purple;
     background-color: lavender;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 #header2 h2 {
     color: green;
     background-color: lightgreen;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
 
 #header3 h3 {
@@ -14,15 +28,18 @@
 }
 
 #header1 p {
-    color:aliceblue
+    color:aliceblue;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 #header2 p {
     color: green;
+    font-family:'Times New Roman', Times, serif;
 }
 
 #header3 p {
     color: purple;
+    font-family: Georgia, 'Times New Roman', Times, serif
 }
 
 body {
