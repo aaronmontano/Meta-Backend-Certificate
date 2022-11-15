@@ -1,4 +1,30 @@
-h1 {
-    color: blue;
-    background-color: grey;
+#header1 h1 {
+    color: purple;
+    background-color: lavender;
+}
+
+#header2 h2 {
+    color: green;
+    background-color: lightgreen;
+}
+
+#header3 h3 {
+    color: red;
+    background-color: maroon;
+}
+
+#header1 p {
+    color:aliceblue
+}
+
+#header2 p {
+    color: green;
+}
+
+#header3 p {
+    color: purple;
+}
+
+body {
+    background-color: black;
 }
